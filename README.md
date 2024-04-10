@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+[![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaysonAlbert)](https://github.com/JaysonAlbert/github-readme-stats)
+
+
 <!--
 **JaysonAlbert/JaysonAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
