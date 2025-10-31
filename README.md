@@ -9,7 +9,7 @@
 | ![Jayson's github stats](https://github-readme-stats.vercel.app/api?username=JaysonAlbert&show_icons=true&theme=radical&include_all_commits=true) | ![Jayson's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaysonAlbert&theme=radical&layout=compact) |
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaysonAlbert&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JaysonAlbert&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **JaysonAlbert/JaysonAlbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
